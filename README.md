@@ -1,2 +1,0 @@
-# perfilReact
-Created with CodeSandbox
